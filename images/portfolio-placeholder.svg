@@ -1,0 +1,19 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f1f8e9;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a3c585;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bgGradient)"/>
+  <g transform="translate(200,150)">
+    <circle cx="-50" cy="-30" r="25" fill="#7fb069" opacity="0.8"/>
+    <rect x="-30" y="-40" width="60" height="40" fill="#4a7c59" opacity="0.9" rx="3"/>
+    <rect x="-25" y="-35" width="15" height="15" fill="#2d5a27" opacity="0.7" rx="2"/>
+    <rect x="-5" y="-35" width="15" height="15" fill="#2d5a27" opacity="0.7" rx="2"/>
+    <rect x="15" y="-35" width="15" height="15" fill="#2d5a27" opacity="0.7" rx="2"/>
+    <rect x="-20" y="-15" width="40" height="3" fill="#1b4b2c" opacity="0.8" rx="1"/>
+    <text x="0" y="30" font-family="'Noto Sans JP', Arial, sans-serif" font-size="16" fill="#2d5a27" text-anchor="middle" font-weight="500">施工実績画像</text>
+    <text x="0" y="50" font-family="'Noto Sans JP', Arial, sans-serif" font-size="12" fill="#4a7c59" text-anchor="middle">準備中</text>
+  </g>
+</svg>
